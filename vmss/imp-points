@@ -2,7 +2,7 @@ Orchestration Mode: Flexible-> Configuration change
 Uniform -> Same configuration
 Change image
 No hardware information, username & password, ID -> Removed
-Windows->Generalize means remove sysprep
+Windows->Generalize means sysprep
 Scaling manual or auto scaling
 Edit -> NIC -> Allow PORT 80
 Load balancer needed for VMSS or Application gateway
