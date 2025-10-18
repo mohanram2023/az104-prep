@@ -1,0 +1,20 @@
+Orchestration Mode: Flexible-> Configuration change
+Uniform -> Same configuration
+Change image
+No hardware information, username & password, ID -> Removed
+Windows->Generalize means remove sysprep
+Scaling manual or auto scaling
+Edit -> NIC -> Allow PORT 80
+Load balancer needed for VMSS or Application gateway
+Enable Predictive Autoscaling -> Only information, will not create next virtual machine
+Allocation policy below 100, then place it in placement group
+top command
+nproc
+sudo yes > /dev/null &
+2 CPU -> execute the commands 2 times
+sudo kill -9
+Spreading algorithm -> Max spreading [Max fault]
+Fixed -> Mention fault domain
+Time based scaling
+Query duration -> Spike wait for 5 minutes
+
