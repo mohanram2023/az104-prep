@@ -1,0 +1,19 @@
+Two disk -> OS disk & data disk
+CPU capactity -> While selecting VM
+Memory
+Hard disk(database, Multimedia)
+disk latency -> Request for data and return of the data
+IOPS - Input/Output operations per second
+Disk through put - Amount of data that can be transferred
+SSD -  Based on Memory, electronic
+HDD -> Mechnical, Plater, Motor read through head
+OS may crash, so didnt store data in OS disk
+Ultra disk- 32 TB disk size, Capacity increase - without deallocating or detaching the disk
+Ultra disk Cannot be used as OS disk and not available in all the regions
+Ultra disk does not support disk encryption and ultra disks for databases
+C drive - Persistent disks, data disk - Persistent disk
+Temporary disk is used for paging file
+Example -> Create folder in temp and data disk. Restart. Force deallocate from Portal.
+
+
+
