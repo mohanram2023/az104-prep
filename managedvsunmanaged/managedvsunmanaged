@@ -1,0 +1,41 @@
+Managed and unmanaged disk
+
+Unmanaged disk->storage->Container->vhd
+
+Maximum IOPS(limitation) condition in storage account
+
+Need to manage both storage account and Virtual machine
+
+Maximum 40 disk, maximum 50 storage account. Total 2000 disk , need to manage both
+
+Need to manage Encryption from our end
+
+Managed disk ->
+
+Microsoft manage reduncy, resiliency and reliability
+
+managed disk placed in storage account , that we not aware
+
+Maintain three replicas
+
+Can be configure availability zones..
+
+maximum 50000 VM disks, high performance
+
+Encrypted also we get backup support
+
+Unmanaged disk does not support availability zone
+
+should not select availability options and security type as standard
+
+select Old OS -> CentoS
+
+Advanced uncheck managed disk
+
+Microsoft recommends managed disk
+
+
+Navigate to storge account and check vhds in container
+
+Migrate to managed disks
+
